@@ -2328,8 +2328,9 @@ ul.sidebar, .widget-container ul {
 }
 .light .ut-left-footer-area,
 .light .ut-right-footer-area {
-	padding:30px 30px 10px 30px;
-	background:rgba(255, 255, 255, 0.15);
+	padding:30px 30px 10px 30px; 
+	/** background:rgba(255, 255, 255, 0.15); **/
+	background: rgba(52, 141, 10,0.5);
 }
 .ut-left-footer-area {
 	margin-bottom:0;
